@@ -1,0 +1,11 @@
+.Heading{
+    text-align: center;
+    font-size: medium;
+    background-color: rgb(193, 191, 191);
+    padding: 40px;
+    margin: 0px 0px 40px 0px;
+}
+
+.what_is_css{
+    color: pink;
+}
