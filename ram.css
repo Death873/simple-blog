@@ -1,0 +1,30 @@
+#r{
+    background-color:indigo;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+#rr{
+    background-color:red;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+#rrr{
+    background-color:green;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+#u{
+    background-color:rgb(123, 123, 0);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+}
+#uu{
+    background-color:black;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 20px;
+}
